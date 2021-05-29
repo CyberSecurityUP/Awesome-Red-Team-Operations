@@ -58,8 +58,6 @@
 
 ### https://github.com/Kevin-Robertson/Powermad
 
-## Main Topic 6
-
 ## AMSI Bypass
 
 ### https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
